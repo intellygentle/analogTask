@@ -22,10 +22,13 @@ https://testnet.analog.one/#/?signup&referral=4IENHO
 ![1000005101](https://github.com/user-attachments/assets/5c7a6cbe-c6c9-4e9c-a24c-765d5709ff8e)
 after clicking on connect wallet it will take you to the docs. locate developer and  click on basic under it.
 ![1000005105](https://github.com/user-attachments/assets/8652b982-13df-4d4d-a600-9184fe2d535e)
-click on the link from there or just copy it from here
-https://watch.testnet.analog.one/#/
+# click on the link from there or just copy it from here
+# https://watch.testnet.analog.one/#/
 ![1000005108](https://github.com/user-attachments/assets/edae597f-61ec-4f35-8073-79e3108d6fc4)
-make sure to use desktop site when connecting wallet
+# make sure to use desktop site when connecting wallet
 ![1000005115](https://github.com/user-attachments/assets/7a950476-2fa5-4098-9a78-184fccb68b42)
 ![1000005111](https://github.com/user-attachments/assets/fdfc3807-0d13-462b-b274-f5571cc85cf3)
-after clicking on connect wallet, and have cconnected your wallet youll just select the onboarding tips randomly 
+# after clicking on connect wallet, and have cconnected your wallet youll just select the onboarding tips randomly 
+![1000005113](https://github.com/user-attachments/assets/52ba531b-ff94-4f98-b29f-c0693242812c)
+# once youre connected go back go analog testnet page to verify the task
+
