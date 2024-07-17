@@ -92,6 +92,11 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ![1000005265](https://github.com/user-attachments/assets/d7450791-f1f2-4112-bd19-adfe019e4742)
 ## Head to remixIDE
 ## https://remix.ethereum.org/
+## Import the extracted folder to RemixIDE
+![1000005267](https://github.com/user-attachments/assets/c82043f9-349e-4e2c-ac1b-78a0603bc1a5)
+## for one reason that i dont know, remix is not importing the whole folder
+![1000005269](https://github.com/user-attachments/assets/2741c696-59b2-4a31-a48c-102b7e60aaf8)
+## we only need two files from everything, so we'll import the two files alone
 
 
 
