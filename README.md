@@ -31,4 +31,13 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 # after clicking on connect wallet, and have cconnected your wallet youll just select the onboarding tips randomly 
 ![1000005113](https://github.com/user-attachments/assets/52ba531b-ff94-4f98-b29f-c0693242812c)
 # once youre connected go back go analog testnet page to verify the task
+![1000005117](https://github.com/user-attachments/assets/40ce6d09-b649-4251-a090-b5e41a8309c1)
+
+### Developer Task2
+# Lets create apikey
+![1000005119](https://github.com/user-attachments/assets/fce64b22-47be-4411-9750-9f6fe6913945)
+![1000005121](https://github.com/user-attachments/assets/497fb7cb-b8dc-4f82-a74c-b33d1ebab9b0)
+![1000005123](https://github.com/user-attachments/assets/a07d35a6-dea0-451a-90ce-eabf63024434)
+![1000005125](https://github.com/user-attachments/assets/e752ac04-bdcb-49f3-8058-bd362d9cf969)
+
 
