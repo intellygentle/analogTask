@@ -62,4 +62,6 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ### You will deploy smartcontract and d verify it to complete the tasks. 
 ### Once you get it done the first time, you'll find it easy running it everyday 
 ### LET'S DO IT !
-
+### First you need sepolia address. You will need to ask for this from friends.
+### create alchemy account though because you may need it for other updates 
+### https://www.alchemy.com/faucets/ethereum-sepolia
