@@ -203,8 +203,14 @@ contract Counter is IGmpReceiver {
 ## Copy the contract and head to https://shibuya.blockscout.com/
 ## paste your smart contract address like we did the other time
 ## scroll down and click on contract, select verify and publish, fill the fields and submit
+![1000005340](https://github.com/user-attachments/assets/134d19f4-2fad-4002-9c91-273d91873881)
 
+![1000005342](https://github.com/user-attachments/assets/1b9aa6c3-5a59-48ec-a7a1-b7b77860e052)
 
+# now, you can go do galxe and intract quests to get more points before i drop the other guide 
+# you can also watch their tutorials to complete some of the watch tasks
+
+# WAGMI
 
 
 
