@@ -69,7 +69,7 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ![1000005143](https://github.com/user-attachments/assets/53b0b829-967b-4166-a3c0-f171fed3a3be)
 ![1000005145](https://github.com/user-attachments/assets/ad303fdc-2ca6-4091-98d9-b8b9572c7542)
 ![1000005147](https://github.com/user-attachments/assets/dee5bbc6-3796-452b-b391-9811c2e3ab70)
-### Now you need the Shibuya faucet too. Don't worry it is easier to get
+## Now you need the Shibuya faucet too. Don't worry it is easier to get
 ### https://portal.astar.network/shibuya-testnet/assets
 ![1000005149](https://github.com/user-attachments/assets/363b3790-a508-4d89-a927-b5172e94d208)
 ![1000005151](https://github.com/user-attachments/assets/22f855c8-cd86-4895-8572-30752e498f97)
