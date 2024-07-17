@@ -185,7 +185,24 @@ contract Counter is IGmpReceiver {
 ## Tada! you got 15ATP
 ![1000005329](https://github.com/user-attachments/assets/f1329015-fe16-4042-b785-018a89ce3125)
 
-
+# Now we need to deploy the contract on shibuya testnet too
+## nothing much; just go to the file and compile
+## change your metamask network to shibuya
+![1000005332](https://github.com/user-attachments/assets/38c98ded-5377-476f-b854-961a05dadc63)
+## change the environment to injected provider - metamask
+## at the deploy field paste this :
+```solidity 
+0x000000007f56768de3133034fa730a909003a165
+```
+## check that everything is set; be sure your metamask is on the shibuya network; click on deploy
+![1000005334](https://github.com/user-attachments/assets/c4b996e6-31ff-4b18-9f86-7e3f81e1c053)
+## Confirm the transaction in your metamask
+![1000005336](https://github.com/user-attachments/assets/1cb080fa-0e4f-4d4a-bb87-afa50a8e7d30)
+## TaDa! your contract is created on the shibuya network. Remains verification 
+![1000005338](https://github.com/user-attachments/assets/9245a18d-938f-420a-92e4-5c8c6d76fffc)
+## Copy the contract and head to https://shibuya.blockscout.com/
+## paste your smart contract address like we did the other time
+## scroll down and click on contract, select verify and publish, fill the fields and submit
 
 
 
