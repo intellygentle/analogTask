@@ -117,9 +117,7 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 
 ## it will pop your wallet up for connection, once it's connected successfully you'll see your wallet address at the account box
 ## take note of the evm version in this screenshot it is cancun
-## add this gateway address to the deploy box 
-' ' 'txt
-0x000000007f56768de3133034fa730a909003a165
+## add this gateway address to the deploy box ` ` `0x000000007f56768de3133034fa730a909003a165 ` ` `
 
 ## then click on deploy 
 ![1000005295](https://github.com/user-attachments/assets/2db2a02b-9f05-4d27-a1ec-64863b1ca4aa)
