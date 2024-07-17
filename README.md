@@ -81,8 +81,15 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ## you can hit me up in the community if you need SYB faucet
 ![1000005165](https://github.com/user-attachments/assets/ae84730b-89c9-4798-a9d8-4dfd5e9d7c14)
 ## Now let's go deploy
-
-
+## download the zipfile from the repository below and extract 
+## https://github.com/intellygentle/intell-analog-gmp-examples
+![1000005167](https://github.com/user-attachments/assets/6824aa3a-fc82-4871-9a37-01d4bbc98ebb)
+![1000005169](https://github.com/user-attachments/assets/595118de-d119-4a45-86c4-0604da9a34c7)
+## the zip file will look like this
+![1000005263](https://github.com/user-attachments/assets/076b5696-e469-4a0e-a03b-78d9dd615ef0)
+## it will look like this after extraction 
+![1000005265](https://github.com/user-attachments/assets/d7450791-f1f2-4112-bd19-adfe019e4742)
+## Head to remixIDE
 
 
 
