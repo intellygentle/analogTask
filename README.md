@@ -112,9 +112,20 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ## click on the third icon at the left side and click on compile. take note of the compiler version
 ## in the screenshot below the compiler is 0.8.26commit...
 ![1000005287](https://github.com/user-attachments/assets/990a7b02-5d5c-4ee9-91f9-f4bea7409e98)
+## click on the 4th icon on, change the environment to ' injected provider- metamask ' 
+![1000005293](https://github.com/user-attachments/assets/fd84f789-6dfd-488c-a41f-29a3d3efe18e)
 
-
-
+## it will pop your wallet up for connection, once it's connected successfully you'll see your wallet address at the account box
+## take note of the evm version in this screenshot it is cancun
+## add this gateway address to the deploy box ' ' ' 0x000000007f56768de3133034fa730a909003a165 ' ' '
+## then click on deploy 
+![1000005295](https://github.com/user-attachments/assets/2db2a02b-9f05-4d27-a1ec-64863b1ca4aa)
+## chech your metamask to confirm the transaction 
+![1000005297](https://github.com/user-attachments/assets/9068aa83-cef4-49b4-9ed6-d00404edd005)
+![1000005299](https://github.com/user-attachments/assets/2fe7d05e-3eba-43ff-929a-32eca951092d)
+## now you have successfully deployed the smartcontrat
+![1000005301](https://github.com/user-attachments/assets/e4c1f05d-2d79-4d5f-af43-a998cbdce0aa)
+## copy the contract address and head to https://eth-sepolia.blockscout.com/
 
 
 
