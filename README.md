@@ -77,7 +77,10 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ![1000005157](https://github.com/user-attachments/assets/66d144d3-a104-4597-a7f6-1f39867d0b5a)
 ![1000005159](https://github.com/user-attachments/assets/070577fa-a1c1-4c52-b09d-aa7e8245c547)
 ![1000005161](https://github.com/user-attachments/assets/60ef781f-194f-4ae1-9eb9-b4865ae484ce)
-
+## Astar portal is having issues now but team is aware already. I got SYB faucet from their Discord
+## you can hit me up in the community if you need SYB faucet
+![1000005165](https://github.com/user-attachments/assets/ae84730b-89c9-4798-a9d8-4dfd5e9d7c14)
+## Now let's go deploy
 
 
 
