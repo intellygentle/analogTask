@@ -102,8 +102,8 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ![1000005273](https://github.com/user-attachments/assets/88a7f28b-8b23-40bf-b0d8-0eb103d680f8)
 ![1000005275](https://github.com/user-attachments/assets/86cabcc6-ba1f-4bc5-90cb-e43ed6bd9e02)
 ![1000005277](https://github.com/user-attachments/assets/8ee646a4-cf1d-494c-bb81-ad48d7f208f5)
-![1000005281](https://github.com/user-attachments/assets/692eeb0b-5b5b-4337-83dd-1e53d1d6a20b)
 ![1000005279](https://github.com/user-attachments/assets/9c265ce1-1fde-42a2-9332-a651b555c2ed)
+![1000005281](https://github.com/user-attachments/assets/7070a463-f75d-4037-8ea2-43d186f71ce8)
 
 
 
