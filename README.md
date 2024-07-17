@@ -56,4 +56,10 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ### then reload the page and log in. go to the quest page and at the gmp connect your metamask wallet.
 ![1000005139](https://github.com/user-attachments/assets/719ca0b6-be3f-4656-b8d5-bdfedf637d1e)
 
+### There are three tasks here but only two is working now. These tasks earns you points daily.
+![1000005141](https://github.com/user-attachments/assets/c45ca551-0808-4c6c-bb1c-b18d922b42b7)
+
+### You will deploy smartcontract and d verify it to complete the tasks. 
+### Once you get it done the first time, you'll find it easy running it everyday 
+### LET'S DO IT !
 
