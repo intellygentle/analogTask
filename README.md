@@ -210,6 +210,7 @@ contract Counter is IGmpReceiver {
 # now, you can go do galxe and intract quests to get more points before i drop the other guide 
 # you can also watch their tutorials to complete some of the watch tasks
 
+# You only need to deploy those contracts and verify them on the two chains daily and you'll earn 30ATP for the two everyday
 # WAGMI
 
 
