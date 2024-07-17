@@ -39,5 +39,8 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ![1000005121](https://github.com/user-attachments/assets/497fb7cb-b8dc-4f82-a74c-b33d1ebab9b0)
 ![1000005123](https://github.com/user-attachments/assets/a07d35a6-dea0-451a-90ce-eabf63024434)
 ![1000005125](https://github.com/user-attachments/assets/e752ac04-bdcb-49f3-8058-bd362d9cf969)
+![1000005127](https://github.com/user-attachments/assets/49532ef3-ab5c-4c89-a19d-8ca1513d7dd9)
+# after clicking on the refresh icon, it should look like this
+![1000005129](https://github.com/user-attachments/assets/732040dd-6887-4e9e-8552-c33bcc862c42)
 
 
