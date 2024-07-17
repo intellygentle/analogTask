@@ -98,6 +98,35 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ![1000005269](https://github.com/user-attachments/assets/2741c696-59b2-4a31-a48c-102b7e60aaf8)
 ## we only need two files from everything, so we'll import the two files alone
 
+![1000005271](https://github.com/user-attachments/assets/351dc7f1-4f57-45b1-bad0-7c55ebaf4ba7)
+![1000005273](https://github.com/user-attachments/assets/88a7f28b-8b23-40bf-b0d8-0eb103d680f8)
+![1000005275](https://github.com/user-attachments/assets/86cabcc6-ba1f-4bc5-90cb-e43ed6bd9e02)
+![1000005277](https://github.com/user-attachments/assets/8ee646a4-cf1d-494c-bb81-ad48d7f208f5)
+![1000005281](https://github.com/user-attachments/assets/692eeb0b-5b5b-4337-83dd-1e53d1d6a20b)
+![1000005279](https://github.com/user-attachments/assets/9c265ce1-1fde-42a2-9332-a651b555c2ed)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
