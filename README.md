@@ -65,3 +65,27 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ### First you need sepolia address. You will need to ask for this from friends.
 ### create alchemy account though because you may need it for other updates 
 ### https://www.alchemy.com/faucets/ethereum-sepolia
+### When a friend has sent you sepoliaEth. follow the guide below to change your network.
+![1000005143](https://github.com/user-attachments/assets/53b0b829-967b-4166-a3c0-f171fed3a3be)
+![1000005145](https://github.com/user-attachments/assets/ad303fdc-2ca6-4091-98d9-b8b9572c7542)
+![1000005147](https://github.com/user-attachments/assets/dee5bbc6-3796-452b-b391-9811c2e3ab70)
+### Now you need the Shibuya faucet too. Don't worry it is easier to get
+### https://portal.astar.network/shibuya-testnet/assets
+![1000005149](https://github.com/user-attachments/assets/363b3790-a508-4d89-a927-b5172e94d208)
+![1000005151](https://github.com/user-attachments/assets/22f855c8-cd86-4895-8572-30752e498f97)
+![1000005153](https://github.com/user-attachments/assets/cc327bc9-5217-4866-986f-535ab3aff6c8)
+![1000005157](https://github.com/user-attachments/assets/66d144d3-a104-4597-a7f6-1f39867d0b5a)
+![1000005159](https://github.com/user-attachments/assets/070577fa-a1c1-4c52-b09d-aa7e8245c547)
+![1000005161](https://github.com/user-attachments/assets/60ef781f-194f-4ae1-9eb9-b4865ae484ce)
+
+
+
+
+
+
+
+
+
+
+
+
