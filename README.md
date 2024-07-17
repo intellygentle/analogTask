@@ -137,6 +137,7 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ## should be the one that you used when you were compiling. They may be different from mine and sometimes they may not
 ![1000005308](https://github.com/user-attachments/assets/04a8ccce-3a0e-44ea-b789-7fcadb37ee41)
 ## at the last field, you need to paste the smart contract source code. just copy it here :
+![1000005325](https://github.com/user-attachments/assets/f0a94844-ff02-4263-b93d-1775446e1c97)
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -178,7 +179,11 @@ contract Counter is IGmpReceiver {
         return bytes32(number);
     }
 }
-
+```
+## the next is you'll see your contract verified. 
+## copy it and take it to the analog testnet page. paste it in the first gmp fiel and click on the side icon
+## Tada! you got 15ATP
+![1000005329](https://github.com/user-attachments/assets/f1329015-fe16-4042-b785-018a89ce3125)
 
 
 
