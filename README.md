@@ -127,7 +127,57 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ## now you have successfully deployed the smartcontrat
 ![1000005301](https://github.com/user-attachments/assets/e4c1f05d-2d79-4d5f-af43-a998cbdce0aa)
 ## copy the contract address and head to https://eth-sepolia.blockscout.com/
+## paste your contract address in the search bar and click on it. sometimes it shows the contract address
+## as EOA just refresh the page and give it some minutes
+![1000005304](https://github.com/user-attachments/assets/30fa8dd2-5453-4859-8b39-a9540f609558)
+## Scroll down and click on contract then click on verify & publish
+![1000005306](https://github.com/user-attachments/assets/58d20281-f141-466f-8d38-75edc96969bf)
+## the next page is where you'll fill the compiler and evm version. Remember i told you to take note of them?
+## the first two field are to be selected as in the screenshot and the compiler and the evm versions 
+## should be the one that you used when you were compiling. They may be different from mine and sometimes they may not
+![1000005308](https://github.com/user-attachments/assets/04a8ccce-3a0e-44ea-b789-7fcadb37ee41)
+## at the last field, you need to paste the smart contract source code. just copy it here :
 
+```solidity
+// SPDX-License-Identifier: MIT
+// Analog's Contracts (last updated v0.1.0) (src/interfaces/IGmpReceiver.sol)
+
+pragma solidity >=0.8.0;
+
+/**
+ * @dev Required interface of a GMP compliant contract
+ */
+interface IGmpReceiver {
+    /**
+     * @dev Handles the receipt of a single GMP message.
+     * The contract must verify the msg.sender, it must be the Gateway Contract address.
+     *
+     * @param id The EIP-712 hash of the message payload, used as GMP unique identifier
+     * @param network The chain_id of the source chain who send the message
+     * @param source The pubkey/address which sent the GMP message
+     * @param payload The message payload with no specified format
+     * @return 32 byte result which will be stored together with GMP message
+     */
+    function onGmpReceived(bytes32 id, uint128 network, bytes32 source, bytes calldata payload)
+        external
+        payable
+        returns (bytes32);
+}
+
+contract Counter is IGmpReceiver {
+    address private immutable _gateway;
+    uint256 public number;
+
+    constructor(address gateway) {
+        _gateway = gateway;
+    }
+
+    function onGmpReceived(bytes32, uint128, bytes32, bytes calldata) external payable returns (bytes32) {
+        require(msg.sender == _gateway, "unauthorized");
+        number++;
+        return bytes32(number);
+    }
+}
 
 
 
