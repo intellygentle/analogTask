@@ -44,3 +44,16 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ![1000005129](https://github.com/user-attachments/assets/732040dd-6887-4e9e-8552-c33bcc862c42)
 
 
+### Lets skip to the GMP task now we'll come back to the remaining watch tasks later
+# connect metamask
+![1000005131](https://github.com/user-attachments/assets/ae156a5e-118d-4788-a00e-d2b17b703367)
+### ERROR 
+# it will show this at the gmp page when you clicl on connect
+![1000005133](https://github.com/user-attachments/assets/b63a2408-d1bf-4b4a-a3bc-b67c9a540962)
+### clear your cache and reload
+![1000005135](https://github.com/user-attachments/assets/0a46f7f9-0ae0-4fdf-becc-d969f93dbfc5)
+![1000005137](https://github.com/user-attachments/assets/75ed202d-284c-48d8-b82e-b5156dbe3a1a)
+### then reload the page and log in. go to the quest page and at the gmp connect your metamask wallet.
+![1000005139](https://github.com/user-attachments/assets/719ca0b6-be3f-4656-b8d5-bdfedf637d1e)
+
+
