@@ -2,10 +2,10 @@
 REQUIREMENTS : Substrate wallet extension and Metamask Wallet extension 
 # Register here if you havent registered before
 https://testnet.analog.one/#/?signup&referral=4IENHO
-![1000005090](https://github.com/user-attachments/assets/bf363772-8dda-469b-b456-9eb63f504e23)
+
 ![1000005086](https://github.com/user-attachments/assets/5f1fb977-c891-4ad5-88f8-99b7e3e002d6)
 ![1000005088](https://github.com/user-attachments/assets/fff57d67-13f6-434a-9367-6f65ac7a2bad)
-
+![1000005090](https://github.com/user-attachments/assets/bf363772-8dda-469b-b456-9eb63f504e23)
 
 
 # go to quests
