@@ -104,6 +104,14 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ![1000005277](https://github.com/user-attachments/assets/8ee646a4-cf1d-494c-bb81-ad48d7f208f5)
 ![1000005279](https://github.com/user-attachments/assets/9c265ce1-1fde-42a2-9332-a651b555c2ed)
 ![1000005281](https://github.com/user-attachments/assets/7070a463-f75d-4037-8ea2-43d186f71ce8)
+## now let's compile the contract and deploy it on the sepolia network 
+# firstly, confirm that your wallet is on the sepolia network 
+![1000005283](https://github.com/user-attachments/assets/ef2cd71a-91a2-48af-8680-0505dfd2390a)
+## click on the counter.sol file
+![1000005285](https://github.com/user-attachments/assets/cc440281-2b50-4697-8fd7-cfad87c166e9)
+## click on the third icon at the left side and click on compile. take note of the compiler version
+## in the screenshot below the compiler is 0.8.26commit...
+![1000005287](https://github.com/user-attachments/assets/990a7b02-5d5c-4ee9-91f9-f4bea7409e98)
 
 
 
