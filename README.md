@@ -65,6 +65,7 @@ after clicking on connect wallet it will take you to the docs. locate developer 
 ### First you need sepolia address. You will need to ask for this from friends.
 ### create alchemy account though because you may need it for other updates 
 ### https://www.alchemy.com/faucets/ethereum-sepolia
+# this faucet is working for new wallets now https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 ### When a friend has sent you sepoliaEth. follow the guide below to change your network.
 ![1000005143](https://github.com/user-attachments/assets/53b0b829-967b-4166-a3c0-f171fed3a3be)
 ![1000005145](https://github.com/user-attachments/assets/ad303fdc-2ca6-4091-98d9-b8b9572c7542)
